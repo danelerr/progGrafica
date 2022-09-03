@@ -1,0 +1,15 @@
+D:\UAGRM\Programacion Grafica\Prueba PG\Prueba PG\bin\Debug\Prueba PG.exe.config
+D:\UAGRM\Programacion Grafica\Prueba PG\Prueba PG\bin\Debug\Prueba PG.exe
+D:\UAGRM\Programacion Grafica\Prueba PG\Prueba PG\bin\Debug\Prueba PG.pdb
+D:\UAGRM\Programacion Grafica\Prueba PG\Prueba PG\bin\Debug\OpenTK.dll
+D:\UAGRM\Programacion Grafica\Prueba PG\Prueba PG\bin\Debug\OpenTK.GLControl.dll
+D:\UAGRM\Programacion Grafica\Prueba PG\Prueba PG\bin\Debug\OpenTK.pdb
+D:\UAGRM\Programacion Grafica\Prueba PG\Prueba PG\bin\Debug\OpenTK.xml
+D:\UAGRM\Programacion Grafica\Prueba PG\Prueba PG\bin\Debug\OpenTK.GLControl.pdb
+D:\UAGRM\Programacion Grafica\Prueba PG\Prueba PG\bin\Debug\OpenTK.GLControl.xml
+D:\UAGRM\Programacion Grafica\Prueba PG\Prueba PG\obj\Debug\Prueba PG.csproj.AssemblyReference.cache
+D:\UAGRM\Programacion Grafica\Prueba PG\Prueba PG\obj\Debug\Prueba PG.csproj.SuggestedBindingRedirects.cache
+D:\UAGRM\Programacion Grafica\Prueba PG\Prueba PG\obj\Debug\Prueba PG.csproj.CoreCompileInputs.cache
+D:\UAGRM\Programacion Grafica\Prueba PG\Prueba PG\obj\Debug\Prueba PG.csproj.CopyComplete
+D:\UAGRM\Programacion Grafica\Prueba PG\Prueba PG\obj\Debug\Prueba PG.exe
+D:\UAGRM\Programacion Grafica\Prueba PG\Prueba PG\obj\Debug\Prueba PG.pdb
